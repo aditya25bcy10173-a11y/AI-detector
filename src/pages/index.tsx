@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
 import FeatureCards from "@/components/FeatureCards";
 import Footer from "@/components/Footer";
-import ParticlesBackground from "@/components/ParticlesBackground";
+import ParticlesBackground from "@/components/particlesBackground";
 
 const Index = () => (
   <div className="min-h-screen bg-background relative">
