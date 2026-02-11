@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ArrowLeft, Volume2 } from "lucide-react";
 import { Link } from "react-router-dom";
 import { jsPDF } from "jspdf";
-import ParticlesBackground from "@/components/ParticlesBackground";
+import ParticlesBackground from "@/components/particlesBackground";
 
 const MAX_MARKS = 6.666;
 
