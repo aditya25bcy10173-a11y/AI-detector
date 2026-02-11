@@ -2,7 +2,7 @@ import { useState } from "react";
 import { ArrowLeft, Volume2 } from "lucide-react";
 import { Link } from "react-router-dom";
 import { jsPDF } from "jspdf";
-import ParticlesBackground from "@/components/particlesBackground";
+import ParticlesBackground from "@/components/ParticlesBackground";
 
 const MARKS = 6.666;
 
