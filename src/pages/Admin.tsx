@@ -1,6 +1,6 @@
 import { ArrowLeft, Users, Activity, FileText, Settings } from "lucide-react";
 import { Link } from "react-router-dom";
-import ParticlesBackground from "@/components/particlesBackground";
+import ParticlesBackground from "@/components/ParticlesBackground";
 
 const stats = [
   { label: "Total Screenings", value: "1,247", icon: Activity, change: "+12%" },
