@@ -100,4 +100,4 @@ const ParticlesBackground = () => {
   );
 };
 
-export default particlesBackground;
+export default ParticlesBackground;
